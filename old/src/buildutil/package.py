@@ -12,7 +12,7 @@ from buildutil.target_patterns import TargetPatterns
 from buildutil.rules.rules import RULES
 
 
-CONFIG_FILE_NAME = 'BUILD'
+CONFIG_FILE_NAME = 'BUILD.old'
 
 
 class PackageSet(object):
