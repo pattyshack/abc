@@ -3,3 +3,7 @@
 *.pyc
 genfile/
 build/
+bazel-abc
+bazel-bin
+bazel-out
+bazel-testlogs
